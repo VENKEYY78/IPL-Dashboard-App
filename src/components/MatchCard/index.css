@@ -1,0 +1,47 @@
+.l1 {
+  list-style-type: none;
+}
+
+.match-card-continer {
+  background-color: #1e293b;
+  background-size: cover;
+  padding: 10px;
+  height: 350px;
+  width: 230px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Bree Serif;
+  margin: 15px;
+  border-radius: 10px;
+}
+
+.logo {
+  width: 150px;
+  height: 150x;
+  padding: 30px;
+  padding-top: 0px;
+}
+
+.result {
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.competing {
+  text-align: center;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.red {
+  color: #e31a1a;
+  text-align: center;
+}
+
+.green {
+  color: #18ed66;
+  text-align: center;
+}
